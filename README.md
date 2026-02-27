@@ -150,7 +150,6 @@ Backend deployed on:
 ---
 
 ## 👩‍💻 Author
-
-Your Name  
+Annette 
 GitHub: https://github.com/anballem
 
