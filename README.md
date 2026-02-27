@@ -8,7 +8,7 @@ Built using Node.js, Express, and MongoDB.
 
 ## 🌐 Base URL
 
-https://your-backend-url.com/api
+https://event-backend-iv2m.onrender.com
 
 ---
 
@@ -36,13 +36,14 @@ https://your-backend-url.com/api
 
 ## 📂 Project Structure
 
-server/
-├── controllers/
-├── models/
-├── routes/
-├── middleware/
-├── config/
-└── server.js
+├── server/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   ├── config/
+│   └── server.js
+└── package.json
 
 ---
 
@@ -151,5 +152,6 @@ Backend deployed on:
 
 ## 👩‍💻 Author
 Annette 
+
 GitHub: https://github.com/anballem
 
